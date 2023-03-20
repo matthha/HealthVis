@@ -1,0 +1,164 @@
+﻿State,Lat,Lon,Issuer_Name,Issuer_ID,Metal_Level,Issuer_Claims_Received,Issuer_Claims_Denials
+AK,66.160507,-153.369141,Premera Blue Cross Blue Shield of Alaska,38344,Gold,603348,143208
+AK,66.160507,-153.369141,Moda Assurance Company,77963,Gold,7965,628
+AL,32.31823,-86.902298,Blue Cross and Blue Shield of Alabama,46944,Gold,7557971,1710597
+AL,32.31823,-86.902298,Bright Health Insurance Company,73301,Gold,99090,6396
+AR,34.799999,-92.199997,"QualChoice Life & Health Insurance Company, Inc.",37903,Silver,1971681,361647
+AR,34.799999,-92.199997,"QCA Health Plan, Inc.",70525,Silver,1954143,362988
+AR,34.799999,-92.199997,"HMO Partners, Inc.",13262,Silver,919095,152474
+AR,34.799999,-92.199997,USAble Mutual Insurance Company,75293,Silver,5795970,1054292
+AR,34.799999,-92.199997,Celtic Insurance Company,62141,Silver,4540069,877096
+AZ,34.048927,-111.093735,"Blue Cross and Blue Shield of Arizona, Inc.",53901,Gold,1702700,270255
+AZ,34.048927,-111.093735,"Cigna HealthCare of Arizona, Inc",97667,Silver,245947,32296
+AZ,34.048927,-111.093735,"UnitedHealthcare of Arizona, Inc.",40702,Gold,22221,8586
+AZ,34.048927,-111.093735,Bright Health Company of Arizona,87247,Gold,426315,20527
+AZ,34.048927,-111.093735,"Oscar Health Plan, Inc.",13877,Bronze Expanded,322617,11378
+AZ,34.048927,-111.093735,"Health Net of Arizona, Inc.",91450,Silver,892318,351934
+DE,39,-75.5,Highmark BCBSD Inc.,76168,Bronze Expanded,814191,121035
+FL,27.994402,-81.760254,"Florida Health Care Plan, Inc.",56503,Catastrophic,2408855,303057
+FL,27.994402,-81.760254,Celtic Insurance Company,21663,Bronze,5169919,2167829
+FL,27.994402,-81.760254,Oscar Insurance Company of Florida,40572,Bronze Expanded,7137398,470215
+FL,27.994402,-81.760254,Bright Health Insurance Company of Florida,12379,Gold,14147996,800924
+FL,27.994402,-81.760254,Cigna Health and Life Insurance Company,48121,Bronze,3040820,554799
+FL,27.994402,-81.760254,"Health First Commercial Plans, Inc.",36194,Bronze Expanded,968641,147827
+FL,27.994402,-81.760254,"AvMed, Inc.",19898,Gold,1155539,311070
+FL,27.994402,-81.760254,"Health Options, Inc.",30252,Silver,23017981,3063375
+FL,27.994402,-81.760254,Blue Cross and Blue Shield of Florida,16842,Silver,18025819,1936124
+FL,27.994402,-81.760254,"Molina Healthcare of Florida, Inc",54172,Gold,515439,113466
+GA,33.247875,-83.441162,Anthem Blue Cross and Blue Shield,49046,Catastrophic,3857828,717223
+GA,33.247875,-83.441162,Oscar Health Plan of Georgia,58081,Bronze Expanded,10714,356
+GA,33.247875,-83.441162,Ambetter of Peach State Inc.,70893,Bronze,4809122,1966976
+GA,33.247875,-83.441162,Kaiser Foundation Health Plan of Georgia,89942,Gold,99336,9464
+GA,33.247875,-83.441162,Alliant Health Plans,83761,Gold,406302,25742
+GA,33.247875,-83.441162,CareSource Georgia Co.,60224,Bronze Expanded,1641847,408202
+HI,19.741755,-155.844437,Hawaii Medical Service Association,18350,Platinum,471082,117703
+HI,19.741755,-155.844437,"Kaiser Foundation Health Plan, Inc.",60612,Platinum,15097,875
+IA,42.032974,-93.581543,"Wellmark Health Plan of Iowa, Inc.",25896,Bronze Expanded,1966886,313471
+IA,42.032974,-93.581543,Oscar Insurance Company,45819,Bronze,9620,269
+IA,42.032974,-93.581543,Medica Insurance Company,93078,Bronze Expanded,851854,107718
+IL,40,-89,"Health Alliance Medical Plans, Inc.",20129,Catastrophic,1311179,141720
+IL,40,-89,Celtic Insurance Company,27833,Silver,589599,280694
+IL,40,-89,"Cigna HealthCare of Illinois, Inc.",53882,Bronze Expanded,400949,78631
+IL,40,-89,SSM Health Plan,65280,Gold,27295,7047
+IL,40,-89,Blue Cross Blue Shield of Illinois,36096,Gold,8309652,1373756
+IL,40,-89,"MercyCare HMO, Inc.",54322,Gold,34094,3577
+IL,40,-89,Quartz Health Benefit Plans Corporation,85773,Gold,82763,8480
+IN,40.273502,-86.126976,Anthem Ins Companies Inc(Anthem BCBS),17575,Silver,14711,2586
+IN,40.273502,-86.126976,Celtic Insurance Company,76179,Silver,456944,174499
+IN,40.273502,-86.126976,"CareSource Indiana, Inc.",54192,Bronze Expanded,3761608,820029
+KS,38.5,-98,"Blue Cross and Blue Shield of Kansas, Inc.",18558,Gold,1894345,229743
+KS,38.5,-98,Medica Insurance Company,39520,Bronze Expanded,215860,42384
+KS,38.5,-98,Oscar Insurance Company,43490,Bronze Expanded,19822,1244
+KS,38.5,-98,Cigna Health and Life Insurance Company,76763,Bronze Expanded,105888,12661
+KS,38.5,-98,Blue Cross and Blue Shield of Kansas City,94248,Bronze Expanded,97698,28030
+LA,30.39183,-92.329102,"Vantage Health Plan, Inc.",67243,Silver,365025,88330
+LA,30.39183,-92.329102,CHRISTUS Health Plan Louisiana,98780,Silver,15654,1490
+LA,30.39183,-92.329102,Louisiana Health Service & Indemnity Company,97176,Silver,308100,42387
+LA,30.39183,-92.329102,"HMO Louisiana, Inc.",19636,Gold,4351415,629374
+MI,44.182205,-84.506836,Blue Cross Blue Shield of Michigan Mutual Insurance Company,15560,Catastrophic,1235529,317708
+MI,44.182205,-84.506836,"Molina Healthcare of Michigan, Inc.",40047,Gold,180358,40144
+MI,44.182205,-84.506836,Physicians Health Plan,60829,Silver,118674,32569
+MI,44.182205,-84.506836,Oscar Insurance Company,77739,Bronze Expanded,28220,764
+MI,44.182205,-84.506836,Priority Health,29698,Gold,2522336,183482
+MI,44.182205,-84.506836,"Meridian Health Plan of Michigan, Inc.",58594,Bronze,70673,34424
+MI,44.182205,-84.506836,McLaren Health Plan Community,74917,Catastrophic,135089,27905
+MI,44.182205,-84.506836,Blue Care Network of Michigan,98185,Catastrophic,3492808,962052
+MO,38.573936,-92.60376,Medica Insurance Company,53461,Bronze Expanded,671235,113397
+MO,38.573936,-92.60376,Celtic Insurance Company,99723,Bronze,1069251,402664
+MO,38.573936,-92.60376,Cigna Health and Life Insurance Company,74483,Bronze Expanded,2505793,352949
+MO,38.573936,-92.60376,Oscar Insurance Company,69512,Bronze Expanded,19070,966
+MO,38.573936,-92.60376,Healthy Alliance Life Co(Anthem BCBS),32753,Silver,1380403,191605
+MO,38.573936,-92.60376,Blue Cross and Blue Shield of Kansas City,34762,Bronze Expanded,190430,49240
+MO,38.573936,-92.60376,SSM Health Insurance Company,47840,Gold,328852,69382
+MO,38.573936,-92.60376,Cox Health Systems Insurance Company,96384,Bronze Expanded,8910,1978
+MS,33,-90,Ambetter of Magnolia Inc.,90714,Silver,1067870,453813
+MS,33,-90,"Molina Healthcare of Mississippi, Inc",79975,Gold,344007,83409
+MT,46.96526,-109.533691,Blue Cross and Blue Shield of Montana,30751,Gold,684257,94689
+MT,46.96526,-109.533691,Montana Health Cooperative,32225,Gold,536004,29883
+MT,46.96526,-109.533691,PacificSource Health Plans,23603,Bronze Expanded,159163,7918
+NC,35.782169,-80.793457,Ambetter of North Carolina Inc.,77264,Bronze,344608,155864
+NC,35.782169,-80.793457,"Oscar Health Plan of North Carolina, Inc",69803,Bronze Expanded,2966,140
+NC,35.782169,-80.793457,Bright Health Company of North Carolina,37900,Gold,4055811,124211
+NC,35.782169,-80.793457,"Cigna HealthCare of North Carolina, Inc.",73943,Gold,989870,129812
+NC,35.782169,-80.793457,Blue Cross and Blue Shield of NC,11512,Silver,21053385,2885751
+ND,47.650589,-100.437012,Sanford Health Plan,89364,Bronze Expanded,1423955,22926
+ND,47.650589,-100.437012,Medica Health Plans,73751,Bronze Expanded,45251,4752
+ND,47.650589,-100.437012,Blue Cross Blue Shield of North Dakota,37160,Silver,404244,50258
+NE,41.5,-100,Bright Health Insurance Company,83653,Gold,770610,48497
+NE,41.5,-100,Medica Insurance Company,20305,Bronze Expanded,2535166,290195
+NH,44,-71.5,Celtic Insurance Company,75841,Gold,278880,93069
+NH,44,-71.5,Matthew Thornton Hlth Plan(Anthem BCBS),96751,Bronze Expanded,912964,115319
+NH,44,-71.5,Harvard Pilgrim Health Care of NE,59025,Gold,244687,56220
+OH,40.367474,-82.996216,Community Insurance Company(Anthem BCBS),29276,Bronze Expanded,470047,73728
+OH,40.367474,-82.996216,"Summa Insurance Company, Inc.",52664,Catastrophic,72669,15668
+OH,40.367474,-82.996216,"Molina Healthcare of Ohio, Inc.",64353,Gold,412168,88629
+OH,40.367474,-82.996216,AultCare Insurance Company,28162,Bronze Expanded,215616,22006
+OH,40.367474,-82.996216,Oscar Buckeye State Insurance Corp.,29341,Bronze Expanded,135743,4594
+OH,40.367474,-82.996216,Buckeye Community Health Plan,41047,Silver,756000,318183
+OH,40.367474,-82.996216,Oscar Insurance Corporation of Ohio,45845,Bronze Expanded,283069,7956
+OH,40.367474,-82.996216,Paramount Insurance Company,74313,Gold,115366,27857
+OH,40.367474,-82.996216,Medical Health Insuring Corp. of Ohio,99969,Silver,968903,179714
+OH,40.367474,-82.996216,"CareSource Ohio, Inc.",77552,Silver,2365974,517465
+OK,36.084621,-96.921387,Oscar Insurance Company,91908,Bronze Expanded,9570,485
+OK,36.084621,-96.921387,Blue Cross Blue Shield of Oklahoma,87571,Silver,8408622,1365329
+OK,36.084621,-96.921387,CommunityCare HMO Inc.,98905,Catastrophic,69035,3814
+OK,36.084621,-96.921387,Medica Insurance Company,21333,Bronze Expanded,499199,92370
+OR,44,-120.5,Providence Health Plan,56707,Gold,818872,52609
+OR,44,-120.5,Kaiser Foundation Healthplan of the NW,71287,Gold,87219,6088
+OR,44,-120.5,"Moda Health Plan, Inc.",39424,Gold,701483,28547
+OR,44,-120.5,PacificSource Health Plans,10091,Bronze Expanded,118161,7650
+OR,44,-120.5,BridgeSpan Health Company,63474,Gold,7760,1551
+OR,44,-120.5,Regence BlueCross BlueShield of Oregon,77969,Bronze Expanded,266472,43160
+SC,33.836082,-81.163727,"Absolute Total Care, Inc",79222,Bronze,135504,65456
+SC,33.836082,-81.163727,Blue Cross and Blue Shield of South Carolina,26065,Gold,10058921,1741311
+SC,33.836082,-81.163727,"MOLINA HEALTHCARE OF SOUTH CAROLINA, INC",42326,Gold,307727,78874
+SD,44.5,-100,Sanford Health Plan,31195,Bronze Expanded,559600,30248
+SD,44.5,-100,"Avera Health Plans, Inc.",60536,Gold,217218,14284
+TN,35.860119,-86.660156,Bright Health Insurance Company of Tennessee,97906,Gold,708193,33009
+TN,35.860119,-86.660156,UnitedHealthcare Insurance Company,69443,Silver,58971,14754
+TN,35.860119,-86.660156,Cigna Health and Life Insurance Company,99248,Silver,5019524,843930
+TN,35.860119,-86.660156,Oscar Insurance Company,23552,Bronze Expanded,62920,4388
+TN,35.860119,-86.660156,Celtic Insurance Company,70111,Bronze,311295,138855
+TN,35.860119,-86.660156,BlueCross BlueShield of Tennessee,14002,Bronze Expanded,5035548,976246
+TX,31,-100,Scott and White Health Plan,40788,Gold,1824230,426208
+TX,31,-100,"SHA, LLC DBA FirstCare Health Plans",26539,Gold,685473,132970
+TX,31,-100,"Sendero Health Plans, Inc.",71837,Silver,325379,95994
+TX,31,-100,Celtic Insurance Company,29418,Silver,699994,304489
+TX,31,-100,Oscar Insurance Company,20069,Bronze,1371176,58098
+TX,31,-100,CHRISTUS Health Plan,66252,Catastrophic,236560,16861
+TX,31,-100,"Molina Healthcare of Texas, Inc.",45786,Silver,3102895,798433
+TX,31,-100,Friday Health Insurance Company Inc,54837,Catastrophic,283660,53576
+TX,31,-100,"Community Health Choice, Inc.",27248,Bronze Expanded,4830305,910712
+TX,31,-100,Blue Cross Blue Shield of Texas,33602,Gold,21896395,4403824
+UT,39.41922,-111.950684,Molina Healthcare of Utah,18167,Gold,74793,19994
+UT,39.41922,-111.950684,Regence BlueCross BlueShield of Utah,22013,Silver,289826,58979
+UT,39.41922,-111.950684,BridgeSpan Health Company,34541,Gold,951,274
+UT,39.41922,-111.950684,University of Utah Health Insurance Plans,42261,Gold,511968,114328
+UT,39.41922,-111.950684,SelectHealth,68781,Silver,9043157,1168720
+UT,39.41922,-111.950684,Cigna Health and Life Insurance Company,81808,Bronze Expanded,165596,28755
+VA,37.926868,-78.024902,Optima Health Plan,20507,Bronze Expanded,872033,250857
+VA,37.926868,-78.024902,"Piedmont Community HealthCare HMO, Inc.",37204,Gold,104805,18799
+VA,37.926868,-78.024902,Cigna Health and Life Insurance Company,41921,Bronze,2456029,323020
+VA,37.926868,-78.024902,"CareFirst BlueChoice, Inc.",10207,Silver,57518,1736
+VA,37.926868,-78.024902,"Optimum Choice, Inc.",24251,Silver,47651,20263
+VA,37.926868,-78.024902,Oscar Insurance Company,25922,Bronze Expanded,6613,610
+VA,37.926868,-78.024902,Group Hospitalization and Medical Services Inc.,40308,Gold,17760,681
+VA,37.926868,-78.024902,"HealthKeepers, Inc.",88380,Catastrophic,5627954,887777
+VA,37.926868,-78.024902,"Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",95185,Gold,33749,4953
+WI,44.5,-89.5,"MercyCare HMO, Inc.",58326,Silver,225044,22447
+WI,44.5,-89.5,Group Health Cooperative of South Central Wisconsin,94529,Platinum,78648,12468
+WI,44.5,-89.5,Children's Community Health Plan ,14630,Bronze Expanded,202934,19062
+WI,44.5,-89.5,Common Ground Healthcare Cooperative,87416,Bronze Expanded,1969968,230792
+WI,44.5,-89.5,Network Health Plan,81413,Bronze Expanded,161833,17964
+WI,44.5,-89.5,"Security Health Plan of Wisconsin, Inc.",38166,Catastrophic,408351,44808
+WI,44.5,-89.5,HealthPartners Insurance Company,20173,Gold,169135,11116
+WI,44.5,-89.5,Compcare Health Serv Ins Co(Anthem BCBS),79475,Bronze Expanded,87492,18994
+WI,44.5,-89.5,"Molina Healthcare of Wisconsin, Inc.",52697,Gold,230821,51762
+WI,44.5,-89.5,Medica Community Health Plan,57845,Gold,446021,45041
+WI,44.5,-89.5,"Aspirus Health Plan, Inc.",86584,Silver,238742,30590
+WI,44.5,-89.5,Dean Health Plan,38345,Catastrophic,1035815,126408
+WI,44.5,-89.5,Quartz Health Benefit Plans Corporation,37833,Gold,697277,62653
+WV,39,-80.5,Highmark Blue Cross Blue Shield West Virginia,31274,Bronze Expanded,423005,40641
+WV,39,-80.5,CareSource West Virginia Co.,50328,Bronze Expanded,460372,102459
+WY,43.07597,-107.290283,Blue Cross Blue Shield of Wyoming,11269,Bronze Expanded,1092490,143184
+WY,43.07597,-107.290283,Montana Health Cooperative,38576,Gold,64754,5303
